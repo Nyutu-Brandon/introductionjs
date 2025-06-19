@@ -1,5 +1,5 @@
 // create a statements for grades
-let marks = 105
+let marks = 104
 if (marks<100 && marks>0 )
     if (marks>=80){
         console.log("you have an A")

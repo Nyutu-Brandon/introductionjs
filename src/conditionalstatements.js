@@ -9,7 +9,7 @@ if (temperatures>30){
     console.log("its a cold day!")
 }
 
-let number =8
+let number =1
 if (number%2==0){
     console.log("its an even number")
 }else{
